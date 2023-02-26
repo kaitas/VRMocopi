@@ -27,3 +27,7 @@ https://www.youtube.com/watch?v=nPg5mXDtgWk
 
 [Google Slides](https://docs.google.com/presentation/d/19U4umqlWXOwIthBwPLG259eIJ_qtPhFl8fmUZC2ujIo)
 
+最終段のトラブルシューティングが意外と大変なのでいろんなケースを書いている。
+
+
+- [公式はこちら](https://www.sony.net/Products/mocopi-dev/jp/documents/ReceiverPlugin/Unity/UseSampleApp.html)
