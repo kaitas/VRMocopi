@@ -21,13 +21,15 @@ https://www.youtube.com/watch?v=nPg5mXDtgWk
 - [GitHubのアカウント](https://github.com/)
 - [GitHub Desktopのインストール](https://docs.github.com/ja/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
 
-練習用のリポジトリを作る
+練習用のリポジトリを作るあたりも含めています。
+
+※このリポジトリは上記のライセンス関連があるのでクローンしても使い道はありません。
 
 ## 資料
 
-[Google Slides](https://docs.google.com/presentation/d/19U4umqlWXOwIthBwPLG259eIJ_qtPhFl8fmUZC2ujIo)
+- [PDF](https://github.com/kaitas/VRMocopi/blob/main/VRMocopi-for%20public.pdf)
+- [Google Slides](https://docs.google.com/presentation/d/19U4umqlWXOwIthBwPLG259eIJ_qtPhFl8fmUZC2ujIo)
 
 最終段のトラブルシューティングが意外と大変なのでいろんなケースを書いている。
-
 
 - [公式はこちら](https://www.sony.net/Products/mocopi-dev/jp/documents/ReceiverPlugin/Unity/UseSampleApp.html)
